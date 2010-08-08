@@ -1,6 +1,6 @@
-[submodule "lib/node-router"]
-	path = lib/node-router
-	url = http://github.com/travisj/node-router.git
 [submodule "lib/node-mongodb-native"]
 	path = lib/node-mongodb-native
 	url = http://github.com/christkv/node-mongodb-native.git
+[submodule "lib/node-router"]
+	path = lib/node-router
+	url = git@github.com:travisj/node-router.git
